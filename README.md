@@ -29,3 +29,7 @@ Tools to use:
 - Caffe
 - Tensorflow
 - Torch
+
+Books/Articles to check out:
+- Neural Networks for Pattern Recognition (Advanced Texts in Econometrics)
+- http://www.codeproject.com/Articles/16650/Neural-Network-for-Recognition-of-Handwritten-Digi
