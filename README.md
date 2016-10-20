@@ -10,6 +10,9 @@ Projects to pursue:
   - Gaussian
   - Multiple Gaussian
 - Kaggle Competitions?
+- Handwritten Digits
+- Dog/Cat classification
+
 
 For each of these, determine impact of:
 - Changes to:
@@ -20,3 +23,9 @@ For each of these, determine impact of:
   - time to convergence
   - final accuracy
 
+Tools to use:
+- Sci-kit learn
+- Keras
+- Caffe
+- Tensorflow
+- Torch
